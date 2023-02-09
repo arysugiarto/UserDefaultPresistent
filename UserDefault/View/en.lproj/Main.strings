@@ -1,0 +1,84 @@
+
+/* Class = "UITextField"; placeholder = "Input your name"; ObjectID = "0Qg-UV-tnD"; */
+"0Qg-UV-tnD.placeholder" = "Input your name";
+
+/* Class = "UILabel"; text = "Profesion"; ObjectID = "78a-h5-xy5"; */
+"78a-h5-xy5.text" = "Profesion";
+
+/* Class = "UITextField"; placeholder = "Input your name"; ObjectID = "97A-lh-kNf"; */
+"97A-lh-kNf.placeholder" = "Input your name";
+
+/* Class = "UITextField"; placeholder = "Profesion"; ObjectID = "LMH-Nt-Ahq"; */
+"LMH-Nt-Ahq.placeholder" = "Profesion";
+
+/* Class = "UILabel"; text = "Welcome,"; ObjectID = "MJ7-x0-HXn"; */
+"MJ7-x0-HXn.text" = "Welcome,";
+
+/* Class = "UIButton"; configuration.title = "Create"; ObjectID = "Mkk-eu-Dl2"; */
+"Mkk-eu-Dl2.configuration.title" = "Create";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mkk-eu-Dl2"; */
+"Mkk-eu-Dl2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "NRt-Ol-isQ"; */
+"NRt-Ol-isQ.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Input email"; ObjectID = "T5w-LO-R8B"; */
+"T5w-LO-R8B.placeholder" = "Input email";
+
+/* Class = "UILabel"; text = "Profesion"; ObjectID = "V8m-j2-xex"; */
+"V8m-j2-xex.text" = "Profesion";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "X0g-Pa-dft"; */
+"X0g-Pa-dft.text" = "Email";
+
+/* Class = "UILabel"; text = "Edit Account"; ObjectID = "YuY-XO-OA0"; */
+"YuY-XO-OA0.text" = "Edit Account";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ao4-OE-nAS"; */
+"ao4-OE-nAS.text" = "Email";
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "bxE-aK-Ysx"; */
+"bxE-aK-Ysx.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bxE-aK-Ysx"; */
+"bxE-aK-Ysx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Create new account"; ObjectID = "eEN-mg-d0b"; */
+"eEN-mg-d0b.text" = "Create new account";
+
+/* Class = "UIButton"; configuration.title = "Edit"; ObjectID = "fEm-j6-b2U"; */
+"fEm-j6-b2U.configuration.title" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fEm-j6-b2U"; */
+"fEm-j6-b2U.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nama nya"; ObjectID = "h2Z-Ds-WxY"; */
+"h2Z-Ds-WxY.text" = "Nama nya";
+
+/* Class = "UIButton"; configuration.title = "Reset"; ObjectID = "h8T-ZB-fIg"; */
+"h8T-ZB-fIg.configuration.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "h8T-ZB-fIg"; */
+"h8T-ZB-fIg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Profesion"; ObjectID = "oJY-Cy-eDe"; */
+"oJY-Cy-eDe.text" = "Profesion";
+
+/* Class = "UITextField"; placeholder = "Profesion"; ObjectID = "pdP-rI-Bzj"; */
+"pdP-rI-Bzj.placeholder" = "Profesion";
+
+/* Class = "UIButton"; configuration.title = "Reset"; ObjectID = "qHV-jZ-Enw"; */
+"qHV-jZ-Enw.configuration.title" = "Reset";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qHV-jZ-Enw"; */
+"qHV-jZ-Enw.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Input email"; ObjectID = "rbt-ot-z7r"; */
+"rbt-ot-z7r.placeholder" = "Input email";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "v7d-oU-saX"; */
+"v7d-oU-saX.text" = "Name";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "wHx-2S-msA"; */
+"wHx-2S-msA.text" = "Name";
